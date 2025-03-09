@@ -125,3 +125,5 @@ class LRUCache {
 }
 ```
 
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/d61a64df-655e-46fd-8bef-e4389a007f5d" />
+
